@@ -31,3 +31,12 @@
 
 
 ## Objective
+My objective for this Project was to unearth various useful insights from the available data that would help teams owners / people playing fantacy games get information about players that are leading in various batting stats like :
+- Players with max Strike Rate.
+- Players with least balls/boundary.
+- Players with most runs per season and many more.<br>
+
+Around 35 of such criterions are used to visualize the data which will give almost all the key attributes of batting.<br>
+I have used matplotlib and Seaborn for carrying out the visualizations.<br>
+Tech stack used: Python,numpy,pandas,matplotlib,Seaborn,html,css
+
